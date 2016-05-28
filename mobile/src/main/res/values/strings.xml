@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UConfessions</string>
+
+    <string name="berkeley">Berkeley</string>
+    <string name="davis">Davis</string>
+    <string name="irvine">Irvine</string>
+    <string name="merced">Merced</string>
+    <string name="losangeles">Los Angeles</string>
+    <string name="riverside">Riverside</string>
+    <string name="sandiego">San Diego</string>
+    <string name="santabarbara">Santa Barbara</string>
+    <string name="santacruz">Santa Cruz</string>
+
+    <string name="prompt">this shits so much better than yikyak</string>
+    <string name="prompt1">aw fk man. tell me yo probs</string>
+    <string name="prompt2">write something about ur walk to class foo</string>
+    <string name="prompt3">ur classes 2 hard? tell me bout it</string>
+    <string name="prompt4">y r u on ur phone. go talk to real people</string>
+    <string name="prompt5">wat do u think i should change about this app</string>
+    <string name="prompt6">i\'m running out of ideas for prompts</string>
+    <string name="prompt7">i -- the guy that wrote this app -- don\'t even go to a uc rn</string>
+    <string name="prompt8">do u use tinder?</string>
+    <string name="prompt9">where should i make friends</string>
+
+    <string name="send">Send</string>
+    <string name="post">Post</string>
+    <string name="back">Back</string>
+
+
+    <string-array name="schoolspinner">
+        <item>Berkeley</item>
+        <item>Davis</item>
+        <item>Irvine</item>
+        <item>Los Angeles</item>
+        <item>Merced</item>
+        <item>Riverside</item>
+        <item>San Diego</item>
+        <item>Santa Barbara</item>
+        <item>Santa Cruz</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

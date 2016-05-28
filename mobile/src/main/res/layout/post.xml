@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+
+        <EditText
+            android:id="@+id/confession"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            />
+
+        <Button
+            android:id="@+id/confess"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/send"
+            android:layout_below="@id/confession" />
+
+        <Spinner
+            android:id="@+id/schoolSpinner"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/confess"
+            android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
